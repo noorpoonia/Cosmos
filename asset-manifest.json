@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Cosmos/static/css/main.fcf74c9f.chunk.css",
+    "main.js": "/Cosmos/static/js/main.5a956777.chunk.js",
+    "main.js.map": "/Cosmos/static/js/main.5a956777.chunk.js.map",
+    "runtime-main.js": "/Cosmos/static/js/runtime-main.3806c243.js",
+    "runtime-main.js.map": "/Cosmos/static/js/runtime-main.3806c243.js.map",
+    "static/js/2.2362394e.chunk.js": "/Cosmos/static/js/2.2362394e.chunk.js",
+    "static/js/2.2362394e.chunk.js.map": "/Cosmos/static/js/2.2362394e.chunk.js.map",
+    "index.html": "/Cosmos/index.html",
+    "static/css/main.fcf74c9f.chunk.css.map": "/Cosmos/static/css/main.fcf74c9f.chunk.css.map",
+    "static/js/2.2362394e.chunk.js.LICENSE.txt": "/Cosmos/static/js/2.2362394e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3806c243.js",
+    "static/js/2.2362394e.chunk.js",
+    "static/css/main.fcf74c9f.chunk.css",
+    "static/js/main.5a956777.chunk.js"
+  ]
+}
